@@ -12,7 +12,7 @@ Below is a table showing names of all the columns and their description.
 
 ## DATA
 | Column Name          | Description                                                                                   |
-| -------------        |:-------------                                                                                :| 
+| -------------        | -------------                                                                                 | 
 | employee_id	         | Unique ID for employee                                                                        | 
 | department	         | Department of employee                                                                        |  
 | region               | Region of employment (unordered)                                                              | 
